@@ -1,43 +1,42 @@
-#Privacy Policy Summary for PenPort
+Privacy Policy for PenPort
 
-PenPort, developed by the National Pensions Authority of Ghana, is a platform that allows users to monitor their pension contributions, view account details, and receive important notifications. We are committed to protecting your privacy and ensuring your personal information is secure.
+PenPort, developed by the National Pensions Authority of Ghana, allows users to monitor pension contributions, view account details, and receive important updates. We value your privacy and are committed to protecting your personal information.
 
 1. Information We Collect
-We may collect the following information:
+We may collect the following types of information when you use PenPort:
 
-Personal Details: Name, email, contact number, date of birth, and pension account details.
+Personal Information: Name, email, contact number, date of birth, and pension account details.
 Usage Data: Device information, app usage patterns, and IP address.
 Notification Preferences: Your choices regarding reminders and updates.
 2. How We Use Your Information
-Your information helps us:
+We use your information to:
 
-Provide access to your pension details.
-Notify you about updates and contributions.
-Improve app functionality and services.
-Comply with legal obligations.
+Provide access to pension details and services.
+Notify you about contributions, account updates, and other relevant information.
+Enhance app performance and security.
+Comply with legal requirements.
 3. Data Security
-We use encryption, secure servers, and regular security updates to protect your data. However, no system is entirely foolproof, so we encourage you to safeguard your login credentials.
+We implement encryption, secure servers, and regular security updates to protect your data. However, we advise users to safeguard their login credentials and avoid sharing them with others.
 
-4. Your Rights
-You can:
+4. Your Rights & Control Over Your Data
+You have the right to:
 
-Access and update your data.
-Request data deletion.
-Adjust notification preferences.
-Contact us at info@npra.gov.gh or call us at +233 (302) 968 692 / +233 (302) 968 693 / 0800766000 (MTN Toll Free) for assistance.
+Access & update your information.
+Request data deletion, subject to legal and operational requirements.
+Adjust notification settings within the app.
+For inquiries or requests, contact us:
+📧 Email: info@npra.gov.gh
+📞 Phone: +233 (302) 968 692 / +233 (302) 968 693 / 0800766000 (MTN Toll-Free)
 
-5. Sharing Information
-We only share your data:
+5. Data Sharing & Third Parties
+We do not sell or rent your data. Your information is only shared:
 
-With trusted service providers.
-When legally required.
-With your explicit consent.
-6. Updates to This Policy
-We may update this policy occasionally. The latest version will always be available in the app or on our website.
+With trusted service providers who help operate our services.
+When required by law or government authorities.
+With your explicit consent for specific services.
+6. Changes to This Privacy Policy
+We may update this policy periodically. The latest version will always be available in the app and on our website.
 
-For questions or concerns, contact us at:
-
-Email: info@npra.gov.gh
-Address: National Pensions Authority, Ghana
-Phone:  +233 (302) 968 692 / +233 (302) 968 693 / 0800766000 (MTN Toll Free)
 By using PenPort, you agree to this Privacy Policy.
+
+For more details or concerns, please contact us at info@npra.gov.gh.
